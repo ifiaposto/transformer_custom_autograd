@@ -34,8 +34,8 @@ It is useful if you want to:
 - experiment with customized backward passes
 
 ## Files
-
-- `manual_autograd_transformer.ipynb` — main Colab-style notebook
+- `transformer_autograd.py`
+- `transformer_custom_autograd.ipynb` — main Colab  notebook
 
 ## Run
 
